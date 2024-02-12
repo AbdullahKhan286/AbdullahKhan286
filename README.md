@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AbdullahKhan286
+- 👋 Hi, I’m @AbdullahKhan and I am a Computer System Engineer
 - 👀 I’m interested in computer system 
-- 🌱 I’m currently learning flutter and APIs
+- 🌱 I’m currently working in Machine learning and have expertise in Flutter
 - 💞️ I’m looking to collaborate on codes
 - 📫 How to reach me ...
 
